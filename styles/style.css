@@ -2094,7 +2094,7 @@ footer {
         margin: 0;
     }
     .subheader_privacy_checkbox:checked + label:after, .subheader_privacy_checkbox:not(:checked) + label:after {
-        top: 0;
+        top: 0 !important;
     }
 }
 
